@@ -20,6 +20,9 @@ A simple take on the classic Rock Paper Scissors game in JavaScript, HTML, and C
 -Javascript
 
 ## How To Play
+
+-Clone this repository
+
 -Open the HTML file in your browser
 
 # Enjoy playing Rock Paper Scissors!
